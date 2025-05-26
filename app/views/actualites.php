@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80" class="card-img-top" alt="Conseil entretien">
+                    <img src="https://www.chacun-sa-route.fr/wp-content/uploads/2020/07/Pr%C3%A9server-votre-voiture-en-%C3%A9t%C3%A9-Visuel-2.jpg" class="card-img-top" alt="Conseil entretien">
                     <div class="card-body">
                         <h5 class="card-title">Conseil : Préparer votre voiture pour l’été</h5>
                         <p class="card-text">Nos experts vous donnent 5 astuces pour voyager sereinement cet été avec votre véhicule.</p>
@@ -35,7 +35,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <img src="https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?auto=format&fit=crop&w=600&q=80" class="card-img-top" alt="Portes ouvertes">
+                    <img src="https://photos.auto-moto.com/32/2019/11/photo_article/7869/68473/1200-L-omnium-garage-le-concessionnaire-qui-place-lexprience-client-au-centre-de-ses-priorits.webp" class="card-img-top" alt="Portes ouvertes">
                     <div class="card-body">
                         <h5 class="card-title">Événement : Portes ouvertes</h5>
                         <p class="card-text">Venez découvrir toute la gamme AutoFictif lors de notre week-end portes ouvertes. Animations et offres spéciales au programme !</p>
